@@ -6,7 +6,7 @@ This template is built using [Markdown](https://daringfireball.net/projects/mark
 
 ## Website Structure
 
-About websites will have the following structure: 
+About websites will have the following structure:
 
 ```
 project
@@ -16,10 +16,10 @@ project
 │   phase-2.markdown
 │
 └── phase-1
-│   │   phase-1-pitch.markdown
-│   │   phase-1-pitch.pdf
-│   │   phase-1-requirements.markdown
-│   │   phase-1-requirements.pdf
+│   │   system-phase-1-pitch.markdown
+│   │   system-phase-1-pitch.pdf
+│   │   system-phase-1-requirements.markdown
+│   │   system-phase-1-requirements.pdf
 │
 └── images
 ```
@@ -43,11 +43,11 @@ The following rules should be followed with each `system-about` website:
 > This repo is available to view at  
 > https://brickmmo.github.io/template-about-markdown/
 
-***
+---
 
 ## Repository Resources
 
-* [Markdown](https://daringfireball.net/projects/markdown/)
+- [Markdown](https://daringfireball.net/projects/markdown/)
 
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
