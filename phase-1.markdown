@@ -13,10 +13,10 @@ This is a brief description of what was completed during phase one.
 
 ## Documents
 
-- [Pitch (Markdown)](phase-1/system-phase-1-pitch.markdown)
-- [Pitch (PDF)](phase-1/system-phase-1-pitch.pdf)
-- [Requirements Document (Markdown)](phase-1/system-phase-1-requirements.markdown)
-- [Requirements Document (PDF)](phase-1/system-phase-1-requirements.pdf)
+- [Pitch (Markdown)](phase-1/phase-1-pitch)
+- [Pitch (PDF)](phase-1/phase-1-pitch.pdf)
+- [Requirements Document (Markdown)](phase-1/phase-1-requirements)
+- [Requirements Document (PDF)](phase-1/phase-1-requirements.pdf)
 
 ## Contributors
 
