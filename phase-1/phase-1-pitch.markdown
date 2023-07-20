@@ -16,7 +16,7 @@ The end result will be instructions to create something similar to the [LEGO™ 
 
 Front end facing application will include the following features:
 
-- A place to upload an image, specify width and height, and convert the image to a series of LEGO™ bricks (similar to https://legoimage.com/ or https://mingze-gao.com/apps/legao/)  
+- A place to upload an image, specify width and height, and convert the image to a series of LEGO™ bricks (similar to [https://legoimage.com/ or https://mingze-gao.com/apps/legao/](https://legoimage.com/ or https://mingze-gao.com/apps/legao/))  
 - Resulting image can be downloaded as a JPG
 - Result will also display a list of required bricks and quantity, should be styled like typical LEGO™ instructions
 - Results will also display a copyable matrix of colours
@@ -28,7 +28,7 @@ Instructions will look similar to this:
 ![Sample Instructions](../images/phase-1-instructions.png)
 
 Taken from the World Map LEGO™ instructions:  
-https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf 
+[https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf ](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf)
       
 ## Back-End
 
