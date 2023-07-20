@@ -43,6 +43,9 @@ The following rules should be followed with each `system-about` website:
 > This repo is available to view at  
 > https://brickmmo.github.io/template-about-markdown/
 
+> **Note**  
+> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+
 ---
 
 ## Repository Resources
