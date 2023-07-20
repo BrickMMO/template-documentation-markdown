@@ -19,4 +19,6 @@ This is a list of all relevant links:
 | - | - | - | 
 | ![codeadamca](https://avatars.githubusercontent.com/u/12630767?s=40) | Adam Thomas | https://github.com/codeadamca |
 
+***
+
 [Back to Home Page](/template-about-markdown/)
