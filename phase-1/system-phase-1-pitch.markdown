@@ -45,9 +45,9 @@ Application API will include the following API calls:
 
 | Method | Endpoint | Description |
 | - | - | - |
-| POST | /api/convert | Converts a specified image to a matrix of LEGO ™ colours. 
+| POST | /api/convert | Converts a specified image to a matrix of LEGO ™ colours. |
+|      |              | Parameters: |
 
-Parameters:
 image (required): posted JPG, PNG, or GIF
 width (required): number of studs wide
 heigh (required)t: number of studs high
