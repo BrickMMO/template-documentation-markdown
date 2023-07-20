@@ -17,7 +17,7 @@ This is a list of all relevant links:
 
 | | Name | GitHub |
 | - | - | - | 
-| ![codeadamca](https://avatars.githubusercontent.com/u/12630767?s=40) | Adam Thomas | https://github.com/codeadamca |
+| ![codeadamca](https://avatars.githubusercontent.com/u/12630767?s=40) | Adam Thomas | [https://github.com/codeadamca](https://github.com/codeadamca) |
 
 ***
 
