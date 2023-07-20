@@ -6,6 +6,8 @@ Completed: December 2022
 
 This is a brief description of what was completed during phase one. 
 
+![Phase 1 City](images/phase-1-city.jpg)
+
 ## Related Links
 
 This is a list of all relevant links:
