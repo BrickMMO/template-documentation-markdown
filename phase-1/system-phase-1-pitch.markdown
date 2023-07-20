@@ -1,8 +1,8 @@
 # App: Project Name: Phase #1
 
-Date: <MONTH> <DAY>, <YEAR>
-Domain: <DOMAIN_NAME>
-GitHub: https://github.com/codeadamca/<REPO_NAME>
+Date: <MONTH> <DAY>, <YEAR>  
+Domain: <DOMAIN_NAME>  
+GitHub: https://github.com/codeadamca/<REPO_NAME>  
 
 ## Application Purpose
 
