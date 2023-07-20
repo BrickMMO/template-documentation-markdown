@@ -10,7 +10,7 @@ This part of the `index.markdown` page should include a brief description of thi
 - [System Backend](https://brickmmo.com)
 
 ## [Phase 1 - Initial Production](phase-1.markdown)
-Completed: December 2023
+Completed: December 2022
 
 ## [Phase 2 - Merge with Central Console](phase-2.markdown)
 Completed: June 2023
