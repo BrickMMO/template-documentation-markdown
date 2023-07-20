@@ -1,0 +1,20 @@
+# Phase 1 - Initial Production
+
+Completed: June 2023
+
+## Phase Description
+
+This is a brief description of what was completed during phase one. 
+
+## Related Links
+
+This is a list of all relevant links:
+
+- [Phase 1 Frontend GitHub Repo](https://brickmmo.github.io/)
+- [Phase 1 backend GitHub Repo](https://brickmmo.github.io/)
+
+## Contributors
+
+- [Adam Thomas](https://github.com/codeadamca)
+
+[Back to Home Page](/)
