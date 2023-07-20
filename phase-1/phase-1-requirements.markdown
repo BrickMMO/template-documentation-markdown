@@ -51,11 +51,11 @@ Similar to the project purpose this is your feature in plain English. What are y
 
 You will write out the user stories that will provide the means of showing what your features will do for the different access levels of your users. User stories are a key element for knowing what the user will be able to do with your feature.  For example; a user story for a frequently asked question feature would be:
 
-	`A logged in Admin user can add a frequently asked question.`
+    A logged in Admin user can add a frequently asked question.
 
 Or for a job application feature:
 
-	`A registered Volunteer can apply for a volunteer position.`
+    A registered Volunteer can apply for a volunteer position.
 
 If we break these stories down, we can see what needs to be in place for them to work. In the first story we have a `logged in admin user` so we will need a login system and a means of distinguishing different types of users. User permissions will also need to be in place. It is important to identify the access `roles` that you will create for your user groups.  The second part `can add a frequently asked question` means that we have a form and a mechanism for adding a question. This might mean a link in admin side that says something like `Add new` or `Add new question`. HTML forms have fields of various types, validation, and code that interacts with the server and the database.
 
