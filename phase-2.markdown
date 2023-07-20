@@ -11,7 +11,7 @@ This is a brief description of what was completed during phase two.
 This is a list of all relevant links:
 
 - [Phase 2 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Phase 2 backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Phase 2 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 
 ## Contributors
 

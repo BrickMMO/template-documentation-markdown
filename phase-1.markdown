@@ -9,7 +9,7 @@ This is a brief description of what was completed during phase one.
 ## Related Links
 
 - [Phase 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Phase 1 backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Phase 1 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 
 ## Documents
 
