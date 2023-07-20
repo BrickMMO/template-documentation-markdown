@@ -17,4 +17,4 @@ This is a list of all relevant links:
 
 - [Adam Thomas](https://github.com/codeadamca)
 
-[Back to Home Page](/)
+[Back to Home Page](/template-about-markdown/)
