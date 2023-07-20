@@ -9,7 +9,7 @@ This part of the `index.markdown` page should include a brief description of thi
 - [System Frontend](https://brickmmo.com)
 - [System Backend](https://brickmmo.com)
 
-## [Phase 1 - Initial Production](phase-1)
+## [Phase 1 - Initial Production](v1)
 
 Completed: December 2022
 

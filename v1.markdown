@@ -1,20 +1,22 @@
-# Phase 2 - Merge with Central Console
+# Phase 1 - Initial Production
 
-Completed: June 2023
+Completed: December 2022
 
 This is a brief description of what was completed during phase one.
 
+![Phase 1 City](images/v1-city.jpg)
+
 ## Related Links
 
-- [Phase 2 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Phase 2 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Phase 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Phase 1 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 
 ## Documents
 
-- [Pitch (Markdown)](system-phase-1/phase-1-pitch)
-- [Pitch (PDF)](system-phase-1/phase-1-pitch.pdf)
-- [Requirements Document (Markdown)](system-phase-1/phase-1-requirements)
-- [Requirements Document (PDF)](system-phase-1/phase-1-requirements.pdf)
+- [Pitch (Markdown)](system-v1/v1-pitch)
+- [Pitch (PDF)](system-v1/v1-pitch.pdf)
+- [Requirements Document (Markdown)](system-v1/v1-requirements)
+- [Requirements Document (PDF)](system-v1/v1-requirements.pdf)
 
 ## Contributors
 

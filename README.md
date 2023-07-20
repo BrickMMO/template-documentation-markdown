@@ -12,14 +12,14 @@ About websites will have the following structure:
 project
 │   README.md
 │   index.markdown
-│   phase-1.markdown
+│   v1.markdown
 │   phase-2.markdown
 │
-└── phase-1
-│   │   system-phase-1-pitch.markdown
-│   │   system-phase-1-pitch.pdf
-│   │   system-phase-1-requirements.markdown
-│   │   system-phase-1-requirements.pdf
+└── v1
+│   │   system-v1-pitch.markdown
+│   │   system-v1-pitch.pdf
+│   │   system-v1-requirements.markdown
+│   │   system-v1-requirements.pdf
 │
 └── images
 ```
