@@ -8,7 +8,7 @@ GitHub: https://github.com/codeadamca/<REPO_NAME>
 
 This application will convert a provided image to a set of instructions to recreate the image using LEGO™ bricks. 
 
-The end result will be instructions to create something similar to the LEGO™ World Map (https://www.lego.com/en-us/product/world-map-31203): 
+The end result will be instructions to create something similar to the [LEGO™ World Map](https://www.lego.com/en-us/product/world-map-31203): 
 
 ![Sample Map](../images/phase-1-map.png)
 
@@ -27,7 +27,7 @@ Instructions will look similar to this:
 
 ![Sample Instructions](../images/phase-1-instructions.png)
 
-Taken from the World Map LEGO™ instructions:
+Taken from the World Map LEGO™ instructions:  
 https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf 
       
 ## Back-End
