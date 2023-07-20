@@ -10,8 +10,8 @@ This is a brief description of what was completed during phase one.
 
 This is a list of all relevant links:
 
-- [Phase 1 Frontend GitHub Repo](https://brickmmo.github.io/)
-- [Phase 1 backend GitHub Repo](https://brickmmo.github.io/)
+- [Phase 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Phase 1 backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 
 ## Contributors
 
