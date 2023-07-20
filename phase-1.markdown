@@ -2,18 +2,21 @@
 
 Completed: December 2022
 
-## Phase Description
-
 This is a brief description of what was completed during phase one. 
 
 ![Phase 1 City](images/phase-1-city.jpg)
 
 ## Related Links
 
-This is a list of all relevant links:
-
 - [Phase 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 - [Phase 1 backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+
+## Documents
+
+- [Pitch (Markdown)](phase-1/system-phase-1-pitch.markdown)
+- [Pitch (PDF)](phase-1/system-phase-1-pitch.pdf)
+- [Requirements Document (Markdown)](phase-1/system-phase-1-requirements.markdown)
+- [Requirements Document (PDF)](phase-1/system-phase-1-requirements.pdf)
 
 ## Contributors
 
