@@ -16,10 +16,10 @@ project
 │   phase-2.markdown
 │
 └── phase-1
-│   │   system-phase-1-pitch.markdown
-│   │   system-phase-1-pitch.pdf
-│   │   system-phase-1-requirements.markdown
-│   │   system-phase-1-requirements.pdf
+│   │   phase-1-pitch.markdown
+│   │   phase-1-pitch.pdf
+│   │   phase-1-requirements.markdown
+│   │   phase-1-requirements.pdf
 │
 └── images
 ```
