@@ -9,11 +9,11 @@ This part of the `index.markdown` page should include a brief description of thi
 - [System Frontend](https://brickmmo.com)
 - [System Backend](https://brickmmo.com)
 
-## [Phase 1 - Initial Production](v1)
+## [Version 1 - Initial Production](v1)
 
 Completed: December 2022
 
-## [Phase 2 - Merge with Central Console](phase-2)
+## [Version 2 - Merge with Central Console](v2)
 
 Completed: June 2023
 

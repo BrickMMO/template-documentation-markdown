@@ -1,15 +1,15 @@
-# Phase 1 - Initial Production
+# Version 1 - Initial Production
 
 Completed: December 2022
 
-This is a brief description of what was completed during phase one.
+This is a brief description of what was completed during version one.
 
-![Phase 1 City](images/v1-city.jpg)
+![Version 1 City](images/v1-city.jpg)
 
 ## Related Links
 
-- [Phase 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Phase 1 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Version 1 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Version 1 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 
 ## Documents
 

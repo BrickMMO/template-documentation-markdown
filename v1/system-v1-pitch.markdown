@@ -1,4 +1,4 @@
-# App: Project Name: Phase #1
+# App: Project Name: Version #1
 
 Date: <MONTH> <DAY>, <YEAR>  
 Domain: <DOMAIN_NAME>  
@@ -49,4 +49,4 @@ Application API will include the following API calls:
 
 ---
 
-[Back to Phase Page](/template-about-markdown/v1)
+[Back to Version Page](/template-about-markdown/v1)

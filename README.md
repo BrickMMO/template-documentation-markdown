@@ -13,7 +13,7 @@ project
 │   README.md
 │   index.markdown
 │   v1.markdown
-│   phase-2.markdown
+│   v2.markdown
 │
 └── v1
 │   │   system-v1-pitch.markdown
@@ -44,7 +44,7 @@ The following rules should be followed with each `system-about` website:
 > https://brickmmo.github.io/template-about-markdown/
 
 > **Note**  
-> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+> All Markdown should follow the [\_readme](https://readme.codeadam.ca/) guidelines.
 
 ---
 

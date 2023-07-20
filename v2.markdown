@@ -1,13 +1,13 @@
-# Phase 2 - Merge with Central Console
+# Version 2 - Merge with Central Console
 
 Completed: June 2023
 
-This is a brief description of what was completed during phase one.
+This is a brief description of what was completed during version one.
 
 ## Related Links
 
-- [Phase 2 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
-- [Phase 2 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Version 2 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
+- [Version 2 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 
 ## Documents
 
