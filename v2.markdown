@@ -22,7 +22,7 @@ This is a brief description of what was completed during version one.
 | ------------------------------------- | ----------- | -------------------------------------------------------------- |
 | ![codeadamca](images/adam-thomas.jpg) | Adam Thomas | [https://github.com/codeadamca](https://github.com/codeadamca) |
 
-<a href="/template-about-markdown/">&#10132; Back to Task List</a>
+[&#10132; Back to About](/template-about-markdown/)
 
 ---
 
