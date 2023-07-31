@@ -108,7 +108,7 @@ Your wireframes will be more complex than these. You will build a home page wire
 
 This document breaks down your plan on a weekly basis. What is your plan for execution across a timeline? Seven weeks is not a lot of time - make sure there is room for deployment and testing!
 
-[&#10132; Back to Version Page](/template-about-markdown/v1)
+[&#10132; Back to Version 1](/template-about-markdown/v1)
 
 ---
 
