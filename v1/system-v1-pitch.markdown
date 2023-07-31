@@ -47,7 +47,7 @@ Application API will include the following API calls:
 | ------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | POST   | /api/convert | Converts a specified image to a matrix of LEGO™ colours.<br><br>Parameters:<br>image (required): posted<br>JPG, PNG, or GIF<br>width (required): number of studs wide<br>heigh (required)t: number of studs high<br>format: format to return data in, default is "json"but also accepts "jpg"<br><br>Returns:<br>A matrix of colours for each LEGO™ brick or a JPG format image. |
 
-[&#10132; Back to Version Page](/template-about-markdown/v1)
+[&#10132; Back to Version 1](/template-about-markdown/v1)
 
 ---
 
