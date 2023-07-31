@@ -24,6 +24,10 @@ This is a brief description of what was completed during version one.
 | ------------------------------------- | ----------- | -------------------------------------------------------------- |
 | ![codeadamca](images/adam-thomas.jpg) | Adam Thomas | [https://github.com/codeadamca](https://github.com/codeadamca) |
 
+<a href="/">&#10132; Back to Task List</a>
+
 ---
 
-[Back to Home Page](/template-about-markdown/)
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
