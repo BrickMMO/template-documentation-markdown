@@ -1,4 +1,4 @@
-# System About
+# template-about-markdown
 
 This is a template for `system-about` websites.
 
