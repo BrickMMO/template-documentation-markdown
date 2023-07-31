@@ -1,6 +1,6 @@
 # About Website Template
 
-Each system will have a `system-about` website built with [Markdown](https://daringfireball.net/projects/markdown/)/. This website will be used to track contributions, versions, and documentation. This repo is a template for the `system-about` websites. These repos are named `system-about`.
+Each system will have a `system-about` website built with [Markdown](https://daringfireball.net/projects/markdown/). This website will be used to track contributions, versions, and documentation. This repo is a template for the `system-about` websites. These repos are named `system-about`.
 
 This template is built using [Markdown](https://daringfireball.net/projects/markdown/). Creating and editing these websites will only require a basic understanding of [Markdown](https://daringfireball.net/projects/markdown/)
 
@@ -44,7 +44,7 @@ The following rules should be followed with each `system-about` website:
 > https://brickmmo.github.io/template-about-markdown/
 
 > **Note**  
-> All Markdown should follow the [\_readme](https://readme.codeadam.ca/) guidelines.
+> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
 
 ---
 
