@@ -1,4 +1,4 @@
-## App: Project Name: Version #1
+## Pitch: Project Name: Version #1
 
 Date: <MONTH> <DAY>, <YEAR>  
 Domain: <DOMAIN_NAME>  
