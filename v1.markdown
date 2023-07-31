@@ -13,10 +13,10 @@ This is a brief description of what was completed during version one.
 
 ## Documents
 
-- [Pitch (Markdown)](system-v1/v1-pitch)
-- [Pitch (PDF)](system-v1/v1-pitch.pdf)
-- [Requirements Document (Markdown)](system-v1/v1-requirements)
-- [Requirements Document (PDF)](system-v1/v1-requirements.pdf)
+- [Pitch (Markdown)](v1/v1-pitch)
+- [Pitch (PDF)](v1/v1-pitch.pdf)
+- [Requirements Document (Markdown)](v1/v1-requirements)
+- [Requirements Document (PDF)](v1/v1-requirements.pdf)
 
 ## Contributors
 
