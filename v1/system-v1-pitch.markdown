@@ -1,6 +1,6 @@
 ## Pitch: Project Name: Version #1
 
-Date: <MONTH> <DAY>, <YEAR>  
+Date: <MONTH> <DAY>, <YEAR>
 Domain: <DOMAIN_NAME>  
 GitHub: https://github.com/codeadamca/<REPO_NAME>
 
