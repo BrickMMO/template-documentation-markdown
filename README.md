@@ -38,7 +38,6 @@ The following rules should be followed with each `system-about` website:
 - Version files are named `<SYSTEM>-v<#>-pitch.markdown`, `<SYSTEM>-v<#>-pitch.pdf`, `<SYSTEM>-v<#>-requirements.markdown`, and `<SYSTEM>-v<#>-requirements.pdf`
 - Images for the `inex.markdown`, `v<#>.markdown`, and version documents are placed in the `root/images` folder
 - Images related to a version are named `v<#>-<TITLE>.<EXT>`
-- All Markdown follows [Tidy](https://tidy.codeadam.ca/) guidelines
 
 > This repo is available to view at  
 > https://brickmmo.github.io/template-about-markdown/
