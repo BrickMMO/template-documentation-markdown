@@ -18,3 +18,7 @@ Completed: December 2022
 Completed: June 2023
 
 ---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
