@@ -26,7 +26,7 @@ project
 
 ## Contributors
 
-At the bottom of a `v<#>.markdown` document the contributors are placed in a table including avatar, name, and GitHub link. The avatar images are copied to the `images` folder in the repo and resized to 30 x 30 pixels. Image are named `<FIRST>-<LAST>.<ext>`.
+At the bottom of a `v<#>.markdown` document the contributors are placed in a table including avatar, name, and GitHub link. The avatar images are copied to the `images` folder in the repo and resized to 40 x 40 pixels. Image are named `<FIRST>-<LAST>.<ext>`.
 
 ## Guidlines
 
