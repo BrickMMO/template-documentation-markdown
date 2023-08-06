@@ -41,11 +41,11 @@ The following rules should be followed with each `system-about` website:
 - Images related to a version are named `v<#>-<TITLE>.<EXT>`
 - Profile images are named `<GITHUB_USERNAME>.png`, images are 40 x 40 pixels and can be png, jpg, or gif
 
-> This repo is available to view at  
-> https://brickmmo.github.io/template-about-markdown/
-
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+
+> This repo is available to view at  
+> https://brickmmo.github.io/template-about-markdown/
 
 ---
 
