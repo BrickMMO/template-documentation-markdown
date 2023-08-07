@@ -14,7 +14,7 @@ The end result will be instructions to create something similar to the [LEGO™ 
 
 ![Sample Map](../images/v1-map.png)
 
-## Front-End
+### Front-End
 
 Front end facing application will include the following features:
 
@@ -32,7 +32,7 @@ Instructions will look similar to this:
 Taken from the World Map LEGO™ instructions:  
 [https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf ](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6372756.pdf)
 
-## Back-End
+### Back-End
 
 Application will include a control panel to achieve the following:
 
@@ -41,7 +41,7 @@ Application will include a control panel to achieve the following:
 - View instructions
 - Export instructions to PDF
 
-## API
+### API
 
 Application API will include the following API calls:
 
