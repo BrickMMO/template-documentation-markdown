@@ -21,34 +21,34 @@ What you are creating are the instructions a developer would follow in order to 
 
 One of the key purposes of this assignment is to help you develop a mental model of what a content management system is. Mental models are a powerful set of expectations about how we see things in the world. For example: an automobile. Automobiles are ubiquitous in our world – there is no city in the world that has not spent untold billions of time, effort, and wealth, in making their city automobile friendly. Some of us can drive an automobile – all of us have been in one and have a good idea of how it works. Therefore, if I asked you to describe an automobile you would be able to do a decent job of it: even if you don't drive. The same is true for this assignment and what we are doing in the program in general. However, most of you have never done this kind of work before and so your mental model needs to be developed. That is the purpose of you doing this assignment.
 
-## Student Name
+### Student Name
 
 This seems obvious – but make sure your name is on the project wherever it can be. This includes file names, emails, the requirements document itself. There should be no doubt who the author is.
 
-## Project Name (and version)
+### Project Name (and version)
 
 This is more than Student X capstone project. It is the narrative and informative title for the project. It is ok to be a bit flashy and exuberant with the project name: `Jasdeep's Excellent Bixi Bike Finder.` Or `Mohamed's Amazing Vegan Recipe Builder.` It may happen that your document will be revised before you implement it. If that is so – you will have to start adding version numbers. So the file name might be – `sen-lui-requirements-v201-2023.docx` or
 `jay-dave-http-capstone-v-2a-2002.docx`. You can pick your versioning pattern – but stick to just one.
 
-## Technology Stack
+### Technology Stack
 
 What are you using to create your project? It could be anything – ASP.net using MVC. WordPress using LAMP. The MERN stack. Take your pick but you have to declare it here. Similarly, if you are incorporating third-party APIs, list them here.
 
-## Project Purpose
+### Project Purpose
 
 This is your project in plain English, something anyone could understand. Here you will describe what the project is, who the project is for, the features it will have, and how it will work.
 
-## Features List
+### Features List
 
 This will be a bullet-point list of the discrete capabilities your project will have. They will be categorized into Must Have features, Should Have features, then, Nice-to-have features.
 
 Following the list of features will be a detailed breakdown of each feature:
 
-## Narrative Description
+### Narrative Description
 
 Similar to the project purpose this is your feature in plain English. What are you building and how will it work? How will the various users interact with your application? About 250 or so words per separate feature.
 
-# User Stories
+### User Stories
 
 You will write out the user stories that will provide the means of showing what your features will do for the different access levels of your users. User stories are a key element for knowing what the user will be able to do with your feature. For example; a user story for a frequently asked question feature would be:
 
@@ -66,13 +66,13 @@ Remember too that all applications have to have CRUD capability. Each element of
 
 CRUD is a short form for Create, Read, Update, and Delete. These are the common database functions that are the basis for content management. Every feature for every Web site in the world will have some or all aspects of CRUD and yours will too. Your project is expected to be able to at least manage CRUD operations in a way that you describe.
 
-## Database Description
+### Database Description
 
 In this section you will determine what information you intend to collect. You will also show the tables you will create to support your feature. In each table you will begin to denote which data fields are required by a setting of `not null`. This is in turn will be seen in the wireframes where you will mark fields that are required.
 
 Excel is probably the best means to show your database tables – but any clear means of showing the tables, their connections, and their details is fine. Below is a possible schema for the MVP for a CMS driven Web site.
 
-### Table Name
+#### Table Name
 
 | Field | Type |
 | id | int |
@@ -80,7 +80,7 @@ Excel is probably the best means to show your database tables – but any clear 
 | word | varchar |
 | text | text |
 
-## Dataflow Diagrams
+### Dataflow Diagrams
 
 We use these diagrams to explain how the feature will work. We model the interaction using boxes, diamonds, and arrows. In one sense each box is a page, the diamonds describe decision points, and the arrows show us the flow of the interaction. Each element of CRUD requires a dataflow diagram – these will be for primarily administrative functions. Although if your feature has public functions – then these will also require a dataflow. Within the dataflow you will also add messages, either success, failure, or status, to show what the message says and how it is triggered. Each dataflow diagram will start with a user story to show what the user will be able to do and to act as the test for that part of the feature. If the user can do what the story says in your application – then you know you are finished.
 
@@ -90,7 +90,7 @@ Take a look at the example below. This is a dataflow for the `create` element of
 
 This is the dataflow for Create – read, update, and delete would be next. Read is simple – and doing a Read dataflow is not always needed – it depends on the interaction. Update would look identical – except this time the admin user would be pulling in the form filled in with the data to be edited. Delete is different – rather than a validation diamond you would have a confirmation diamond – this would be a status message (in yellow) asking the user if they were sure they wanted to delete the record. You can expect to have between 4 and 10 dataflow diagrams depending on the feature you are describing. You may also consider that a responsive or an accessible version might require a change in the interaction – if that is the case – dataflow diagrams reflecting responsive (or accessible) interactions may be needed.
 
-## Wireframes
+### Wireframes
 
 From a broad perspective the point of these documents is to go from very loose `descriptions` to very tight `requirements`: programming the feature itself is the most specific of all. Our narrative description is in English and is not very specific. Then our database is logical but not very useful in telling us how the feature will work: it is simply what data will be collected and how. The dataflow diagrams require us to be more exact in how the feature will work, what goes first, what goes next, and how error, success, and status will be handled. The wireframes are our first attempt to show how the feature will look. The wireframes will show forms, outputs, and views. The arrangement of the data from the database on the screen. They will also show how errors will be displayed and what fields are required.
 
@@ -106,7 +106,7 @@ This wireframe is a view of all the records available for the admin users. The g
 
 Your wireframes will be more complex than these. You will build a home page wireframe. This wireframe will hold most of the navigation and the layout for the Web site. Your features will fit into the main wireframe.
 
-## Project Timeline (see provided document)
+### Project Timeline (see provided document)
 
 This document breaks down your plan on a weekly basis. What is your plan for execution across a timeline? Seven weeks is not a lot of time - make sure there is room for deployment and testing!
 
