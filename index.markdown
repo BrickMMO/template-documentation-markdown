@@ -15,8 +15,6 @@ Completed: December 2022
 
 ## [Version 2 - Merge with Central Console](v2)
 
-Completed: June 2023
-
 ---
 
 <a href="https://brickmmo.com">
