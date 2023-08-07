@@ -1,5 +1,7 @@
 # template-about-markdown
 
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 This is a template for `system-about` websites.
 
 ![BrickMMO](images/brickmmo.png)
