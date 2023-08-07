@@ -27,7 +27,7 @@ project
 
 ## Contributors
 
-At the bottom of a `v<#>.markdown` document the contributors are placed in a table including avatar, name, and GitHub link. The avatar images are copied to the `images` folder in the repo and resized to 40 x 40 pixels. Image are named `<FIRST>-<LAST>.<ext>`.
+At the bottom of a `v<#>.markdown` document the contributors are placed in a table including avatar, name, and GitHub link. The avatar images are copied to the `students` or `faculty` folder in the repo and resized to 80 x 80 pixels. Image are named `<GITHUB_USERNAME>.<ext>`. GitHub usernames are converted to lowercase and no punctuation. 
 
 ## Guidlines
 
@@ -39,7 +39,7 @@ The following rules should be followed with each `system-about` website:
 - Version files are named `<SYSTEM>-v<#>-pitch.markdown`, `<SYSTEM>-v<#>-pitch.pdf`, `<SYSTEM>-v<#>-requirements.markdown`, and `<SYSTEM>-v<#>-requirements.pdf`
 - Images for the `index.markdown`, `v<#>.markdown`, and version documents are placed in the `root/images` folder
 - Images related to a version are named `v<#>-<TITLE>.<EXT>`
-- Profile images are named `<GITHUB_USERNAME>.png`, images are 80 x 80 pixels and can be png, jpg, or gif, and placed in the `students` or `faculty` folder
+- Profile images are named `<GITHUB_USERNAME>.<EXT>`, images are 80 x 80 pixels and can be png, jpg, or gif, and placed in the `students` or `faculty` folder
 
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
