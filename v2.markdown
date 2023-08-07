@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Version 2 - Merge with Central Console
 
 Completed: June 2023
