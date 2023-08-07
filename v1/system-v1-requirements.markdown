@@ -75,6 +75,7 @@ Excel is probably the best means to show your database tables – but any clear 
 #### Table Name
 
 | Field | Type |
+| - | - |
 | id | int |
 | foreign_id | int |
 | word | varchar |
