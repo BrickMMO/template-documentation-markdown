@@ -39,7 +39,7 @@ The following rules should be followed with each `system-about` website:
 - Version files are named `<SYSTEM>-v<#>-pitch.markdown`, `<SYSTEM>-v<#>-pitch.pdf`, `<SYSTEM>-v<#>-requirements.markdown`, and `<SYSTEM>-v<#>-requirements.pdf`
 - Images for the `index.markdown`, `v<#>.markdown`, and version documents are placed in the `root/images` folder
 - Images related to a version are named `v<#>-<TITLE>.<EXT>`
-- Profile images are named `<GITHUB_USERNAME>.png`, images are 40 x 40 pixels and can be png, jpg, or gif
+- Profile images are named `<GITHUB_USERNAME>.png`, images are 80 x 80 pixels and can be png, jpg, or gif
 
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
