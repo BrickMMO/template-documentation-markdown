@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Requirements: Project Name: Version #1
 
 Developing the capstone project will require you to create a requirements document first and the project itself second. The requirements document is the equivalent of an architect's blueprint: it is your plan for what you will execute before you do so. While you may be tempted to develop the project without a plan – this is not allowed. The more detailed and complete your requirements document the easier it will be to create your capstone project. These are the main facets of your document:
