@@ -6,19 +6,19 @@ Completed: June 2023
 
 This is a brief description of what was completed during version one.
 
-## Related Links
+### Related Links
 
 - [Version 2 Frontend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 - [Version 2 Backend GitHub Repo](https://github.com/BrickMMO/template-about-markdown)
 
-## Documents
+### Documents
 
 - [Pitch (Markdown)](v1/system-v1-pitch)
 - [Pitch (PDF)](v1/system-v1-pitch.pdf)
 - [Requirements Document (Markdown)](v1/system-v1-requirements)
 - [Requirements Document (PDF)](v1/system-v1-requirements.pdf)
 
-## Contributors
+### Contributors
 
 |                                       | Name        | Type    | GitHub                                                |
 | ------------------------------------- | ----------- | ------- | ----------------------------------------------------- |
