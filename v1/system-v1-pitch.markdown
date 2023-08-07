@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Pitch: Project Name: Version #1
 
 Date: <MONTH> <DAY>, <YEAR>
